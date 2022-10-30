@@ -1,0 +1,11 @@
+Package: lab10assign
+Version: 1.0
+Architecture: all
+Maintainer: Awwal
+Filename: pool/main/lab10assign_0.0.1-1_amd64.deb
+Size: 2548
+MD5sum: 50a7ec7be35d27546af47e867ebfe301
+SHA1: 6474516ff22e04e4a25d0ecc0a0c5164af8869f1
+SHA256: 8b08537ed35d920b208ee4df0ed1a1de3c4e956a6408b3a19b554e21d6ad966a
+Description: Lab 10 repo assignment
+
